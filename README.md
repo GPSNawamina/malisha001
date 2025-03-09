@@ -6,7 +6,7 @@
 <!-- Header Section -->
 <p align="center">
   <h1 align="center"> 
-    <img src="https://user-images.githubusercontent.com/74038190/216122074-438a11d2-59a5-4458-9c24-5ff96a0a0f5a.png" 
+   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" 
          alt="Sparkles" 
          width="40" />
     Hi there, I'm Malisha! 👋
@@ -40,8 +40,8 @@
         <li>⚡ Fun fact: <strong>🎧 I code better with LoFi beats!</strong></li>
       </ul>
     </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/216122119-5b57d7f9-05a0-44d2-a8a5-6e0e5a229268.gif" 
+   <td>
+      <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" 
            width="400">
     </td>
   </tr>
